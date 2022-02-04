@@ -1,4 +1,4 @@
-#:tw-1f31e: Hyperblog :tw-1f335:
+# Hyperblog
 
 Blog digno de un hacker para el curso de Git y Github de Platzi
 

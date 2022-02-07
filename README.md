@@ -11,3 +11,4 @@ Blog digno de un hacker para el curso de Git y Github de Platzi
 EXTRA: *No tomes muy en serio este Hyperblog*
 Creado por el increible Guille
 Incluye múltiple ejemplos
+Para everyone
